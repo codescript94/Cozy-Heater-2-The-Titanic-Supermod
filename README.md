@@ -1,6 +1,6 @@
 
 
-# Cozy Heater 2 - The Titanic Supermod 2026
+# Cozy Heater 2 - The Titanic Supermod
 [![Stars](https://img.shields.io/github/stars/codescript94/Cozy-Heater-2-The-Titanic-Supermod)](https://github.com/codescript94/Cozy-Heater-2-The-Titanic-Supermod) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Complete ready-to-use **Cozy Heater 2 - The Titanic Supermod** — the largest and most ambitious supermod for Cozy Heater 2. Adds a massive Titanic-themed expansion including new luxurious rooms, historic furniture, elegant decorations, new characters, events, costumes, and hundreds of new cozy items inspired by the Titanic era.
